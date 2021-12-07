@@ -3,7 +3,7 @@ Desenvolvendo ciência de dados
 
 [![Python 3.7](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/) [![Generic badge](https://img.shields.io/badge/tested-yes-<COLOR>.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintenance-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-**Como usar**
+**Como usar**<br />
 Eu utilizei o python 3.8.5 e a biblioteca "folium" para os mapas
 - pip install folium
 
